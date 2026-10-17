@@ -6,23 +6,6 @@ This repository contains the paper source for **DDBR** (personalized **D**iscret
 
 New bundles that are continuously created for various marketing purposes pose a significant cold-start challenge to bundle recommendation. Existing collaborative filtering-based bundle recommendation models do not work well for this cold-start issue since they often learn bundle representations with the interactions at both the item and bundle levels. To address the cold-start challenge, we focus on recommending strict cold-start bundles for users and propose DDBR, which introduces a "Generate-then-Match" paradigm that shifts bundle recommendation from discriminative interaction modeling to generative bundle synthesis.
 
-## Paper
-
-The LaTeX source of the paper is available in the [`paper/`](paper/) directory.
-
-- **Paper**: `paper/bare_jrnl_new_sample4_r2.tex`
-- **Figures**: `paper/figures/`
-
-### Compiling
-
-```bash
-cd paper
-pdflatex bare_jrnl_new_sample4_r2.tex
-bibtex bare_jrnl_new_sample4_r2
-pdflatex bare_jrnl_new_sample4_r2.tex
-pdflatex bare_jrnl_new_sample4_r2.tex
-```
-
 ## Code
 
 The full implementation code will be released upon acceptance of the paper. Stay tuned!
