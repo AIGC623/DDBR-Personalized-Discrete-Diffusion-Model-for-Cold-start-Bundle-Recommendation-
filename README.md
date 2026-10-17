@@ -1,6 +1,6 @@
 # DDBR: Personalized Discrete Diffusion Model for Cold-start Bundle Recommendation
 
-This repository contains the paper source for **DDBR** (personalized **D**iscrete **D**iffusion Model for cold-start **B**undle **R**ecommendation), accepted by IEEE Transactions on Consumer Electronics.
+This repository contains the paper source for **DDBR** (personalized **D**iscrete **D**iffusion Model for cold-start **B**undle **R**ecommendation), submitted to IEEE Transactions on Consumer Electronics (under review).
 
 ## Abstract
 
@@ -22,6 +22,10 @@ bibtex bare_jrnl_new_sample4_r2
 pdflatex bare_jrnl_new_sample4_r2.tex
 pdflatex bare_jrnl_new_sample4_r2.tex
 ```
+
+## Code
+
+The full implementation code will be released upon acceptance of the paper. Stay tuned!
 
 ## Citation
 
