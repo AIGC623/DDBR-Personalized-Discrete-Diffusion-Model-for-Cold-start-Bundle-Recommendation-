@@ -1,0 +1,28 @@
+# LaTeX aux files
+*.aux
+*.log
+*.out
+*.toc
+*.bbl
+*.blg
+*.brf
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+*.dvi
+*.ps
+*.lof
+*.lot
+*.acn
+*.acr
+*.alg
+*.glg
+*.glo
+*.gls
+*.ist
+*.slg
+*.syg
+*.sym
+
+# macOS
+.DS_Store
